@@ -1,0 +1,14 @@
+{
+  "name": "my-vet",
+  "version": "0.0.0",
+  "description": "MyVet",
+  "scripts": {
+    "start": "node server"
+  },
+  "engines": {
+    "node": "~6.10.x"
+  },
+  "author": {
+    "name": ""
+  }
+}
